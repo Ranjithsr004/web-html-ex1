@@ -1,0 +1,14 @@
+h1{
+	color: green;
+	font-weight: bold;
+}
+h2{
+	color: burlywood;
+	font-weight: bold;
+	font-size: 25px;
+}
+.a{
+	color: gray;
+	background-color: red;
+	margin-top: 200px ;
+}
